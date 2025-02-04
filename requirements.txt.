@@ -1,3 +1,2 @@
-#requierements txt: 
-  - snowflake-snowpark-python
+snowflake-snowpark-python
   streamlit
