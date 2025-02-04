@@ -1,9 +1,1 @@
-[connection.snowflake]
-account="ABPGRRK-ND21123"
-user="CATHD"
-password="Maria1991###"
-role="SYSADMIN"
-warehouse="COMPUTE_WH"
-database="SMOOTHIES"
-schema="PUBLIC"
-client_session_keep_alive=true
+
