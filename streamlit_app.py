@@ -5,7 +5,7 @@ import streamlit as st
 
 
 # Write directly to the app
-st.title("Customize Your Smoothie!! ")
+st.title("My parents new healthy dinner!! ")
 st.write(
     """
     Choose the fruits you want in your custom Shoothie!
